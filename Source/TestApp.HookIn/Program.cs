@@ -11,6 +11,7 @@ namespace TestApp.HookIn
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("My name is Alastair An");
         }
     }
 }
